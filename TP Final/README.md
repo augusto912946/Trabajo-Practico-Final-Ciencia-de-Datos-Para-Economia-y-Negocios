@@ -100,9 +100,8 @@ output/figures/
 
 ---
 
-# 👤 Autor
-**Augusto Suppa** 
-**Rodrigo Orozco**
+# 👤 Autores
+**Augusto Suppa** y **Rodrigo Orozco**
 
 ---
 
@@ -114,3 +113,4 @@ output/figures/
 - Modelado y limpieza documentados  
 
 - Visualizaciones editorializadas  
+
