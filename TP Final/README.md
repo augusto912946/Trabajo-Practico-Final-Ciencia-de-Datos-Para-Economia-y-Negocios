@@ -101,7 +101,8 @@ output/figures/
 ---
 
 # 👤 Autor
-**Augusto Suppa**  
+**Augusto Suppa** 
+**Rodrigo Orozco**
 
 ---
 
@@ -111,4 +112,5 @@ output/figures/
 - Scripts secuenciales  
 - Outputs automáticos  
 - Modelado y limpieza documentados  
+
 - Visualizaciones editorializadas  
