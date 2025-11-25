@@ -1,4 +1,4 @@
-# 📊 Trabajo Final – Ciencia de Datos para Economía y Negocios  
+# 📊 Trabajo Practico Final – Ciencia de Datos para Economía y Negocios  
 ### Análisis del dataset *Sample – Superstore* (Retail)
 
 Este proyecto desarrolla un análisis integral del dataset **Sample – Superstore**, siguiendo la metodología vista en la materia:
@@ -113,4 +113,5 @@ output/figures/
 - Modelado y limpieza documentados  
 
 - Visualizaciones editorializadas  
+
 
